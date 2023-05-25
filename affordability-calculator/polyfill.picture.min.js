@@ -1,0 +1,1 @@
+if(!window.HTMLPictureElement){var script=document.createElement("script");script.src="/handlebars/common/utilities/picturefill.js",document.head.appendChild(script)}

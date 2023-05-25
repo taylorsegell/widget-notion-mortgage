@@ -1,0 +1,1 @@
+"use strict";window.cgmt_error_queue=[],window.cgmt_error_handler=function(r){window.cgmt_error_queue.push(r)},window.addEventListener("error",window.cgmt_error_handler,!0);
